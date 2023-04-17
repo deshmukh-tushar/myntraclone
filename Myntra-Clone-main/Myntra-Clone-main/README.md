@@ -3,7 +3,7 @@
 
 Myntra is an e-commerce website where people can buy from wide range of products and has an interactive UI. 
 
-A Collaborative project built by a team of 3 executed in 7 days.
+A solo project built and executed in span of 5 days.
 
 
 ![Logo](https://img.mensxp.com/media/content/2021/Jan/People-Try-To-Find-Other-Secretly-Offensive-Logos1400_60165ada60850.jpeg)
@@ -64,12 +64,12 @@ A Collaborative project built by a team of 3 executed in 7 days.
 
 ![Logo](https://images2.imgbox.com/5c/84/veOWEFoY_o.jpg)
 
-## Contributors  😇
+<!-- ## Contributors  😇
 
 
 - 👤 [Biswaranjan](https://www.github.com/icyflame21)
 - 👤 [Vikram](https://www.github.com/Vikram-amin)
-- 👤 [Jasmine Shaikh](https://www.github.com/Jasmine-Shaikh)
+- 👤 [Jasmine Shaikh](https://www.github.com/Jasmine-Shaikh) -->
 
 
 
